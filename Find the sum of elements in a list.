@@ -1,0 +1,3 @@
+numbers = [2, 4, 6, 8, 10]
+sum_result = sum(numbers)
+print("Sum:", sum_result)
